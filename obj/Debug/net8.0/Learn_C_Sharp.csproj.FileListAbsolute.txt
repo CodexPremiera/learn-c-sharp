@@ -1,0 +1,14 @@
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\bin\Debug\net8.0\Learn_C_Sharp.exe
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\bin\Debug\net8.0\Learn_C_Sharp.deps.json
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\bin\Debug\net8.0\Learn_C_Sharp.runtimeconfig.json
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\bin\Debug\net8.0\Learn_C_Sharp.dll
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\bin\Debug\net8.0\Learn_C_Sharp.pdb
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.AssemblyInfoInputs.cache
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.AssemblyInfo.cs
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.csproj.CoreCompileInputs.cache
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.dll
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\refint\Learn_C_Sharp.dll
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.pdb
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.genruntimeconfig.cache
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\ref\Learn_C_Sharp.dll
