@@ -12,3 +12,4 @@ D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_
 D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.pdb
 D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.genruntimeconfig.cache
 D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\ref\Learn_C_Sharp.dll
+D:\PremieraAlpha\Career\Programming\Code Academy\Learn Languages\Learn_C#\Learn_C_Sharp\Learn_C_Sharp\obj\Debug\net8.0\Learn_C_Sharp.sourcelink.json
