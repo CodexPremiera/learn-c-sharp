@@ -6,7 +6,7 @@ namespace Learn_C_Sharp.Lesson01_HelloWorld
 {
     class HelloWorld
     {
-        static void Main()
+        static void HelloMain()
         {
             // Hello World
             Console.WriteLine("Hello C#!");
