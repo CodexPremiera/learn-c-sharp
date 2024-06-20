@@ -2,7 +2,7 @@ namespace Learn_C_Sharp.Lesson03_Conditionals;
 
 public class Conditionals
 {
-    static void Main(string[] args)
+    static void ConditionalsMain(string[] args)
     {
         /* IF STATEMENTS */
         int socks = 3;
